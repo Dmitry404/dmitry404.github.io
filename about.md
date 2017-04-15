@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there! I'm here to tell a little bit about myself.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Dmitriy. I am a Java developer at [Lohika](http://www.lohika.com). 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dmitry404@gmail.com](mailto:dmitry404@gmail.com)
+
+---
+
+Thanks to @barryclark for such a great [Jekkyl](https://github.com/jekyll/jekyll) [template](https://github.com/barryclark/jekyll-now) for this site

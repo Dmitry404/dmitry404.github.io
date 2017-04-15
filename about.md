@@ -14,4 +14,4 @@ My name is Dmitriy. I am a Java developer at [Lohika](http://www.lohika.com).
 
 ---
 
-Thanks to @barryclark for such a great [Jekkyl](https://github.com/jekyll/jekyll) [template](https://github.com/barryclark/jekyll-now) for this site
+Thanks to [@barryclark](https://github.com/barryclark) for such a great [Jekkyl](https://github.com/jekyll/jekyll) [template](https://github.com/barryclark/jekyll-now) for this site
